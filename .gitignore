@@ -5,7 +5,6 @@
 *.py[co]
 *.mo
 *~
-[a-z0-9]{40,}
 dmoj/local_settings.py
 resources/style.css
 resources/content-description.css
@@ -13,7 +12,4 @@ resources/ranks.css
 resources/table.css
 sass_processed
 <desired bridge log path>
-node_modules/
-package-lock.json
-/src
 
